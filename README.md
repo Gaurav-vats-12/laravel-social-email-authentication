@@ -1,5 +1,4 @@
 # Laravel Social and Email Authentication
-
 This project is related to tutorial from [Codingo Tuts].
 
 In tutorial I am creating Laravel application  with email authentication and user roles, but I am also using [Laravel Socialite] for Facebook and Twitter logins.
